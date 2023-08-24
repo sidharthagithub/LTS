@@ -1,0 +1,38 @@
+table,
+th,
+tr,
+td,
+caption {
+    border: 1px solid #eee;
+    border-collapse: collapse;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0.5em;
+}
+
+abbr {
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: rgb(63, 63, 255);
+}
+
+a:visited {
+    color: rgb(255, 83, 111);
+}
+
+a:hover {
+    font-size: 20px;
+    background-color: antiquewhite;
+
+    text-decoration: underline solid rgb(63, 63, 255);
+
+}
+
+a:active {
+    color: rgb(195, 86, 86);
+}
